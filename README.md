@@ -1,2 +1,2 @@
-# CS349Assignment
+# CS349Assignments
 My work for the CS 349 Course
