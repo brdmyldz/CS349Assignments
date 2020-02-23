@@ -13,6 +13,9 @@
       <sourceFolder url="file://$MODULE_DIR$/4.canvas" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/controller" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/simple_draw" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.clipboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.sound" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6.menubar" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

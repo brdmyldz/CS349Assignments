@@ -12,7 +12,7 @@ class Rename {
 		File file1 = new File(args[0]);
 		File file2 = new File(args[1]);
 
-		// check for errrors
+		// check for errors
 		if (!file1.exists()) {
 			System.out.println("Error: " + file1.toString() + " does not exist");
 			System.exit(0);

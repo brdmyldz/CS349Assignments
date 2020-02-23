@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ec6fc54-c958-41f8-a786-2dc2cc2624c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TOrPmMsvezOfHzZuMJyvDKU56B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.17309502" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.1.HelloFX">
+    <configuration name="1.HelloFX" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="Java 13.01" />
+      <option name="MAIN_CLASS_NAME" value="HelloFX" />
+      <module name="JavaFX" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.graphics,javafx.base,javafx.fxml,javafx.media" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/out/production/JavaFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.Java Version" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="Java 13.01" />
+      <option name="MAIN_CLASS_NAME" value="JavaVersion" />
+      <module name="JavaFX" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.graphics,javafx.base,javafx.fxml,javafx.media" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/out/production/JavaFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3.DrawShapes" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="Java 13.01" />
+      <option name="MAIN_CLASS_NAME" value="DrawShapes" />
+      <module name="JavaFX" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.graphics,javafx.base,javafx.fxml,javafx.media" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/out/production/JavaFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4.Canvas" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="Java 13.01" />
+      <option name="MAIN_CLASS_NAME" value="DrawShapes" />
+      <module name="JavaFX" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.graphics,javafx.base,javafx.fxml,javafx.media" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/out/production/JavaFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.Painters Algorithm" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="Java 13.01" />
+      <option name="MAIN_CLASS_NAME" value="PaintersAlgorithm" />
+      <module name="JavaFX" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.graphics,javafx.base,javafx.fxml,javafx.media" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/out/production/JavaFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Alerts" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="Java 13.01" />
+      <option name="MAIN_CLASS_NAME" value="Alerts" />
+      <module name="JavaFX" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.graphics,javafx.base,javafx.fxml,javafx.media" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/out/production/JavaFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerApplication" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="Java 13.01" />
+      <option name="MAIN_CLASS_NAME" value="ControllerApp" />
+      <module name="JavaFX" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.graphics,javafx.base,javafx.fxml,javafx.media" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/out/production/JavaFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GridPane" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="Java 13.01" />
+      <option name="MAIN_CLASS_NAME" value="GridPaneDemo" />
+      <module name="JavaFX" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.graphics,javafx.base,javafx.fxml,javafx.media" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/out/production/JavaFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.1.HelloFX" />
+      <item itemvalue="Application.2.Java Version" />
+      <item itemvalue="Application.3.DrawShapes" />
+      <item itemvalue="Application.4.Canvas" />
+      <item itemvalue="Application.5.Painters Algorithm" />
+      <item itemvalue="Application.Alerts" />
+      <item itemvalue="Application.ControllerApplication" />
+      <item itemvalue="Application.GridPane" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ec6fc54-c958-41f8-a786-2dc2cc2624c8" name="Default Changelist" comment="" />
+      <created>1573341960496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573341960496</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added drawing sample">
+      <created>1573414288523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573414288523</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Minor revision of drawing class">
+      <created>1573415738538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573415738538</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added painters algorithm sample.">
+      <created>1573487837411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573487837411</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Added drawing sample" />
+    <MESSAGE value="Minor revision of drawing class" />
+    <MESSAGE value="Added painters algorithm sample." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added painters algorithm sample." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="85" key="#Project_Structure" timestamp="1575133492274">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state x="340" y="85" key="#Project_Structure/0.23.1680.964@0.23.1680.964" timestamp="1575133492274" />
+    <state x="304" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575143744548">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="304" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.964@0.23.1680.964" timestamp="1575133919758" />
+    <state x="304" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.965@0.23.1680.965" timestamp="1575143744548" />
+    <state x="609" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1575144412127">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="609" y="149" key="#com.intellij.ide.util.MemberChooser/0.23.1680.965@0.23.1680.965" timestamp="1575144412127" />
+    <state x="514" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575143466355">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="514" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.965@0.23.1680.965" timestamp="1575143466355" />
+    <state x="552" y="343" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575143286910">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="552" y="343" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.965@0.23.1680.965" timestamp="1575143286910" />
+    <state width="1654" height="240" key="GridCell.Tab.0.bottom" timestamp="1575144568973">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1654" height="249" key="GridCell.Tab.0.bottom/0.23.1680.964@0.23.1680.964" timestamp="1575134705894" />
+    <state width="1654" height="240" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1575144568973" />
+    <state width="1654" height="240" key="GridCell.Tab.0.center" timestamp="1575144568972">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1654" height="249" key="GridCell.Tab.0.center/0.23.1680.964@0.23.1680.964" timestamp="1575134705893" />
+    <state width="1654" height="240" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1575144568972" />
+    <state width="1654" height="240" key="GridCell.Tab.0.left" timestamp="1575144568972">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1654" height="249" key="GridCell.Tab.0.left/0.23.1680.964@0.23.1680.964" timestamp="1575134705892" />
+    <state width="1654" height="240" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1575144568972" />
+    <state width="1654" height="240" key="GridCell.Tab.0.right" timestamp="1575144568973">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1654" height="249" key="GridCell.Tab.0.right/0.23.1680.964@0.23.1680.964" timestamp="1575134705894" />
+    <state width="1654" height="240" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1575144568973" />
+    <state width="1654" height="299" key="GridCell.Tab.1.bottom" timestamp="1575144456212">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1654" height="299" key="GridCell.Tab.1.bottom/0.23.1680.965@0.23.1680.965" timestamp="1575144456212" />
+    <state width="1654" height="299" key="GridCell.Tab.1.center" timestamp="1575144456209">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1654" height="299" key="GridCell.Tab.1.center/0.23.1680.965@0.23.1680.965" timestamp="1575144456209" />
+    <state width="1654" height="299" key="GridCell.Tab.1.left" timestamp="1575144456208">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1654" height="299" key="GridCell.Tab.1.left/0.23.1680.965@0.23.1680.965" timestamp="1575144456208" />
+    <state width="1654" height="299" key="GridCell.Tab.1.right" timestamp="1575144456211">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1654" height="299" key="GridCell.Tab.1.right/0.23.1680.965@0.23.1680.965" timestamp="1575144456211" />
+    <state x="233" y="23" key="SettingsEditor" timestamp="1575143678982">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="233" y="23" key="SettingsEditor/0.23.1680.964@0.23.1680.964" timestamp="1575133676225" />
+    <state x="233" y="23" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1575143678982" />
+    <state x="421" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1575134192546">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state x="421" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.964@0.23.1680.964" timestamp="1575134192546" />
+  </component>
+</project>

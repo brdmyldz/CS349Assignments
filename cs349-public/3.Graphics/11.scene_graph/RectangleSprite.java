@@ -69,3 +69,4 @@ public class RectangleSprite extends Sprite {
         return false;
     }
 }
+

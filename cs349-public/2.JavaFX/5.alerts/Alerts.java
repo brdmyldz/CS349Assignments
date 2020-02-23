@@ -16,13 +16,13 @@ public class Alerts extends Application {
 
         Button button = new Button("Click me");
         button.setOnAction(event -> {
-                    boolean answer = ConfirmBox.Display("Confirm", "Please respond.");
-                    if (answer == true) {
-                        System.out.println("Yes was chosen");
-                    } else {
-                        System.out.println("No was chosen");
-                    }
-                });
+                boolean answer = ConfirmBox.Display("Confirm", "Please respond.");
+                if (answer == true) {
+                    System.out.println("Yes was chosen");
+                } else {
+                    System.out.println("No was chosen");
+                }
+            });
 
         StackPane layout = new StackPane();
         layout.getChildren().add(button);

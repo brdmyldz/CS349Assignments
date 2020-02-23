@@ -1,0 +1,1 @@
+This is a text file, used in the read_file demo to demonstrate simple file IO, and handling IO exceptions.
