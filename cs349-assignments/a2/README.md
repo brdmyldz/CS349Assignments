@@ -1,3 +1,9 @@
+Run instructions are given at https://student.cs.uwaterloo.ca/~cs349/w20/assignments/a0.html
+
+Technical instructions about the project are given at https://student.cs.uwaterloo.ca/~cs349/w20/assignments/a2.html
+
+***************************************
+
 Berdem Yildiz
 20635203 b2yildiz
 openjdk 11.0.5 2019-10-15
